@@ -12,9 +12,9 @@ _CITATION = """\
 """
 
 _DESCRIPTION = """\
-ScienceQA is a dataset for QA on scholarly articles. 1825 articles are drawn from 3 years of accepted research articles from the\
+scienceQA is a dataset for QA on scholarly articles. 1825 articles are drawn from 3 years of accepted research articles from the\
 International Joint Conferences on Artificial Intelligence conference. We modified the dataset to remove those questions for which the \
-    answer was not a span in the context.
+answer was not a span in the context. scienceQA2 kept the questions for which the answer was not a span in the context
 """
 
 _HOMEPAGE = "https://github.com/TanikSaikh/Scientific-Question-Answering"
